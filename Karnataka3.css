@@ -20,7 +20,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
   }
-li a:hover {
+li a:hover:not(.active) {
   background-color: #111;
 }
 .active {
