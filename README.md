@@ -1,5 +1,6 @@
 # Karnataka_HTML_Project
-All rights reserved by the images'/resources' respective owners. I do not own any rights to these resources/images.
+<p>All rights reserved by the images'/resources' respective owners. I do not own any rights to these resources/images.</p>
+<p>
 Sources:-
 https://www.tripadvisor.in/Attractions-g297628-Activities-Bengaluru_Bangalore_District_Karnataka.html
 
@@ -24,3 +25,11 @@ https://www.karnataka.com/bangalore/bannerghatta-national-park/
 https://design.google/library/io-2019-our-definitive-guide-design/
 
 https://en.wikipedia.org
+</p>
+<p>
+  <b>
+    <i>
+      Created by AnonymousGryffindor
+    </i>
+  </b>
+  </p>
